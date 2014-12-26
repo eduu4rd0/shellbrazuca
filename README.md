@@ -1,26 +1,24 @@
 PHP Web Shell Brazuca
 ============
+PHP Web Shell Brazuca is a script in php that has a set of useful functions to carry out raids (or just safety tests) on web servers.
 
-PHP Web Shell Brazuca é um script em php que possui um conjunto de funções úteis para realizar invasões ( ou apenas testes de segurança ) em web servidores.
-
-
-Atualmente possui as funções abaixo
+Currently has the following functions
 ----
-
-<b>File Manager<br>
+File Manager<br>
 Upload<br>
 Read (Mini-Bypass)<br>
-Execute Commands<br>
-Commands List<br>
-Eval PHP</b><br>
+Shell<br>
+  -Execute Commands<br>
+  -Commands List<br>
+Eval PHP<br>
 <i>MySQL</i><br>
-  -<b>Dump Database</b><br>
-  -<b>email Search</b><br>
-  -<b>Query Execution</b><br>
+  -Dump Database<br>
+  -email Search<br>
+  -Query Execution<br>
 <i>Others</i><br>
-  -<b>More info</b><br>
-  -<b>Code Injector</b><br>
-  -<b>Port Scan</b><br>
-  -<b>Encript String</b><br>
-  -<b>Log Eraser ( Disponível apenas no linux )</b><br>
-  -<b>AutoRoot</b><br>
+  -More info<br>
+  -Code Injector<br>
+  -Port Scan<br>
+  -Encript String<br>
+  -Log Eraser ( Only on Linux )<br>
+  -AutoRoot<br>
